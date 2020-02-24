@@ -1,4 +1,4 @@
-# Домашнее задание к лекции «Свойства объектов, обёртки для примитивов»
+# Домашнее задание к лекции «Свойства объектов, обёртки для примитивов» [![Build status](https://ci.appveyor.com/api/projects/status/io0jb5w5hlp63nqa/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/properties-and-wrappers/branch/master)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
