@@ -36,7 +36,10 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "core-js": "^3.6.4"
+    "core-js": "^3.6.4",
+    "lodash": "^4.17.15",
+    "mixin-deep": "^2.0.1",
+    "set-value": "^3.0.1"
   },
   "repository": {
     "type": "git",
